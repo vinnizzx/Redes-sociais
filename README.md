@@ -11,7 +11,7 @@
     <h1>Minhas Rede Sociais</h1>
     <h2>Quem sou eu?</h2>
     <p id="imagem"><img src="foto_perfil.jpg" alt="foto de perfil" ></p>
-    <p>Meu nome é <strong>Vinicius Couto de Oliveira</strong> tenho 18 anos, atualmente estudoJavaScript e pretendo seguir com NodeJs.</p>
+    <p>Meu nome é <strong>Vinicius Couto de Oliveira</strong> tenho 18 anos, atualmente estudo JavaScript e pretendo seguir com NodeJs.</p>
     <h2 id="como-falar-cmg">Como falar comigo?</h2>
     <p class="redes">
         <ul>
