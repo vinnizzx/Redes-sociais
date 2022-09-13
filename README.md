@@ -15,7 +15,7 @@
     <h2 id="como-falar-cmg">Como falar comigo?</h2>
     <p class="redes">
         <ul>
-            <LI type="square" > <img src="icone-instagram.png" alt="icone-instagram"> Instagram: <a href="https://www.instagram.com/vinniciuscoutoo/" target="_blank">@vinniciuscoutoo</a> </LI>
+            <li type="square" > <img src="icone-instagram.png" alt="icone-instagram"> Instagram: <a href="https://www.instagram.com/vinniciuscoutoo/" target="_blank">@vinniciuscoutoo</a> </li>
         
         
             <li type="square"> <img src="icone-facebook.png" alt="icone facebook"> Facebook: <a href="https://www.facebook.com/vini.couto.14" target="_blank"> @vini.couto.14</a></li>
