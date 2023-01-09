@@ -17,20 +17,7 @@
     <ul>
             <li type="square" > <img src="icone-instagram.png" alt="icone-instagram"> Instagram: <a href="https://www.instagram.com/vinniciuscoutoo/" target="_blank">@vinniciuscoutoo</a> </li>
     </ul>
-        
-     <ul>
-            <li type="square"> <img src="icone-facebook.png" alt="icone facebook"> Facebook: <a href="https://www.facebook.com/vini.couto.14" target="_blank"> @vini.couto.14</a></li>
-        
-      </ul>
-            <li type="square"> <img src="icone-github.png" alt="icone-github"> GitHub: <a href="https://github.com/vinnizzx" target="_blank"> @vinnizzx</a></li> 
-     <ul>
-        
-         <li type="square"><img src="icone-linkedin.png" alt="icone-linkedin"> Linkedin:
-         <a href="https://www.linkedin.com/in/vinicius-couto-de-oliveira-a00612235" target="_blank">@ViniciusCoutoDeOliveira</a></li>
-    </ul>
-        
-    </p>
-    
+
     
 </body>
 </html>
